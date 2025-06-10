@@ -1,4 +1,4 @@
-jewelry price estimation challenge
+**jewelry price estimation challenge
 • Backend in ASP.NET Core and Database can be local DB / In memory
 
 Requirement:
